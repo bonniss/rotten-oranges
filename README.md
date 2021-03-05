@@ -1,7 +1,7 @@
 # Rotten Oranges - A React TMDb Client
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/bonniss/rotten-oranges/main/src/assets/logo_text.png" alt="Logo" style="max-width:100%;" height="150">
+  <img src="https://raw.githubusercontent.com/bonniss/rotten-oranges/main/src/assets/logo_text.png" alt="Logo" height="150">
 </p>
 
 This is one of my weekend projects to practice React Hook API. It is originally inspired by [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) by Stephen Kempin.
