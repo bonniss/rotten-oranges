@@ -1,7 +1,7 @@
 # Rotten Oranges - A React TMDb Client
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bonniss/rotten-oranges/main/src/assets/logo_text.png" alt="Logo" height="150">
+  <img src="https://raw.githubusercontent.com/bonniss/rotten-oranges/main/src/assets/logo_text.png" alt="Logo" height="125">
 </p>
 
 This is one of my weekend projects to practice React Hook API. It is originally inspired by [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) by Stephen Kempin.
@@ -12,20 +12,6 @@ Technologies used:
   - [The TMDb API](https://www.themoviedb.org/documentation/api)
 - Frontend
   - [React Material UI](https://material-ui.com/)
-
-## Screenshots
-
-![Homepage](https://raw.githubusercontent.com/bonniss/rotten-oranges/main/screenshots/ross-home.jpg)
-
-![Autocomplete](https://raw.githubusercontent.com/bonniss/rotten-oranges/main/screenshots/ross-autocomplete.jpg)
-
-![Movie detail](https://raw.githubusercontent.com/bonniss/rotten-oranges/main/screenshots/ross-movie-detail.jpg)
-
-![Horizontal card](https://raw.githubusercontent.com/bonniss/rotten-oranges/main/screenshots/ross-goat-horizontal.jpg)
-
-![Vertical card](https://raw.githubusercontent.com/bonniss/rotten-oranges/main/screenshots/ross-goat-vertical.jpg)
-
-![Filters](https://raw.githubusercontent.com/bonniss/rotten-oranges/main/screenshots/ross-goat-filters.jpg)
 
 ## Authentication
 
@@ -60,7 +46,33 @@ npm start
 npm run build
 ```
 
-## TODO
+## Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bonniss/rotten-oranges/main/screenshots/ross-home.jpg" alt="Homepage" width="750">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bonniss/rotten-oranges/main/screenshots/ross-autocomplete.jpg" alt="Autocomplete" width="750">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bonniss/rotten-oranges/main/screenshots/ross-movie-detail.jpg" alt="Movie detail" width="750">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bonniss/rotten-oranges/main/screenshots/ross-goat-horizontal.jpg" alt="Horizontal card" width="750">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bonniss/rotten-oranges/main/screenshots/ross-goat-vertical.jpg" alt="Vertical card" width="750">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bonniss/rotten-oranges/main/screenshots/ross-goat-filters.jpg" alt="Filters" width="750">
+</p>
+
+## Todo
 
 - Search TV Shows, Actors, Directors
 - Random Movie Suggestion
