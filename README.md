@@ -1,6 +1,6 @@
 # Rotten Oranges - A React TMDb Client
 
-<p style="text-align: center">
+<p align="center>
 <img src="https://raw.githubusercontent.com/bonniss/rotten-oranges/main/src/assets/logo_text.png" alt="Logo" style="max-width:100%;" height="150">
 </p>
 
