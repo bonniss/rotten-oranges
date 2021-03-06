@@ -50,6 +50,7 @@ const useHorizontalStyles = makeStyles(theme => ({
     width: hozPosterWidth,
   },
   overview: {
+    maxWidth: '32rem',
     paddingTop: theme.spacing(2),
     paddingBottom: theme.spacing(2),
     fontStyle: 'italic',
@@ -142,7 +143,7 @@ function MovieCard({ movie, orientation, itemIdx, showIndex }) {
                 </Typography>
               </Link>
               <MovieRating voteAverage={vote_average} voteCount={vote_count} />
-              <Typography className={classes.overview} variant="body2" component="p">
+              <Typography className={classes.overview} variant="body1" component="p">
                 {overview}
               </Typography>
             </CardContent>
